@@ -1,4 +1,4 @@
-	---
+---
 ## Front matter
 title: "Отчёт по лабораторной работе №3"
 subtitle: "Дисциплина: Архитектура компьютера"
@@ -64,7 +64,7 @@ header-includes:
   - \usepackage{indentfirst}
   - \usepackage{float} # keep figures where there are in the text
   - \floatplacement{figure}{H} # keep figures where there are in the text
-	---
+---
 
 # Цель работы
 
